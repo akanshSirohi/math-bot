@@ -10,7 +10,7 @@ MathBot is a web-based scientific calculator that uses Ollama to process and sol
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/akanshSirohi/math-bot.git
    cd math-bot
    ```
 
